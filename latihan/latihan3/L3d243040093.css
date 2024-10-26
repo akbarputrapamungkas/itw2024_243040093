@@ -33,6 +33,7 @@ h4, h3 {
 .p2 {
     text-align: right;
     line-height: 2rem;
+    text-indent: 10%;
 }
 .p2 a {
     text-decoration: none;
