@@ -9,7 +9,7 @@ html {
     margin: auto;
     justify-content: center;
     align-items: center;
-    background-color: aqua;
+    background-color: lightblue;
 }
 .header, .image, .footer, h3 {
     align-items: center;
