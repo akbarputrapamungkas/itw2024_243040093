@@ -1,0 +1,79 @@
+/* style*/
+body {
+  background-color: #333;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #eaeaea;
+  font-size: 1.3rem;
+  background-image: url(img/sativa.webp);
+}
+.container {
+  width: 900px;
+  margin: auto;
+  background-color: #333;
+}
+.header {
+  padding: 20px;
+  padding-bottom: 10px;
+}
+.header .judul {
+  font-size: 40px;
+  font-weight: bold;
+}
+.header h1:hover {
+  color: #a855f7;
+}
+.header ul li {
+  display: inline-block;
+  margin: 5px 15px 5px 0;
+}
+.header a {
+  text-decoration: none;
+  color: #eaeaea;
+  padding: 10px;
+  font-weight: 500;
+}
+.header a:hover {
+  background-color: #000;
+  color: #a855f7;
+}
+.hero {
+  height: 400px;
+  background-image: url(img/hero001.jpg);
+  background-size: cover;
+  background-position: 0 -180px;
+  border-top: 5px solid #a855f7;
+  border-bottom: 5px solid #22d3ee;
+}
+.content {
+  padding: 20px;
+  width: 80%;
+}
+.content h2 {
+  font-size: 28px;
+  font-weight: bold;
+}
+.content .penulis {
+  font-size: 17px;
+  margin-top: 5px;
+}
+.content .penulis a {
+  color: #2dd4bf;
+  text-decoration: none;
+}
+.content p {
+  margin-bottom: 20px;
+  margin-bottom: 2rem;
+}
+.footer {
+  background-color: #5b21b6;
+  padding: 10px;
+}
+.footer .copy {
+  color: #eaeaea;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.footer a {
+  color: #ffffff;
+}
