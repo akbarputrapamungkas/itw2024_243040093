@@ -29,7 +29,7 @@ body {
 .header a {
   text-decoration: none;
   color: #eaeaea;
-  padding: 10px;
+  padding: 5px;
   font-weight: 500;
 }
 .header a:hover {
@@ -61,7 +61,6 @@ body {
   text-decoration: none;
 }
 .content p {
-  margin-bottom: 20px;
   margin-bottom: 2rem;
 }
 .footer {
