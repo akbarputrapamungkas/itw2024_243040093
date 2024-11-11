@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+  .container {
+    background-color: white;
+    width: 100vw;
+  }
+  .hero img {
+    height: 25em;
+  }
+  .overlay img {
+    max-width: 65%;
+  }
+  .galery li {
+    align-items: center;
+  }
+}
+/* gak tau lah susah bgt */
